@@ -1,0 +1,4 @@
+vue router
+vuex
+vuex-persistedstate
+tailwind
